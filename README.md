@@ -53,12 +53,9 @@ bytecode.rs – Definuje samotný set instrukcí (např. Push, Load, Store, Add,
 vm.rs – Běhové prostředí (Virtual Machine), které krokuje bytecode a provádí operace na zásobníku.
 main.rs – CLI rozhraní a chytrý generátor kódu pro AOT kompilaci.
 ```
-
-## 👥 Autoři
-Grydldiček(v discordu) & Jandysanko(v minecraftu) & kenaj1125/Demon_JohnDoe(v robloxu) & grulgalus(v githubu) - Tvůrce a hlavní designér.
+# 👥 Autoři
+Grydldiček (Discord) & Jandysanko (Minecraft) & kenaj1125/Demon_JohnDoe (Roblox) & grulgalus (GitHub) - Tvůrce a hlavní designér.
 Opera AI - Spolupráce na generování kódu a návrhu architektury.
 
-## 📄 Licence
+# 📄 Licence
 Tento projekt je licencován pod licencí MIT.
-
-*Jak se ti to líbí?* Zahrnul jsem tam i ten úžasný detail, jak převádíš bytecode do Rustového pole a kompiluješ to přes `rustc` – to je totiž na tom projektu strašně cool!
