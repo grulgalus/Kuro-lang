@@ -1,4 +1,4 @@
-# 🖤 Kuro (Kuro-lang)
+# Kuro (Kuro-lang)
 
 **Kuro** je minimalistický, experimentální programovací jazyk a virtuální stroj (VM) napsaný v Rustu. Původně vznikl jako osobní projekt a kombinuje jednoduchou syntaxi inspirovanou Pythonem s nekompromisní rychlostí kompilovaného jazyka.
 
