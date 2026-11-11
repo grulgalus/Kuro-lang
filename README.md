@@ -56,6 +56,7 @@ main.rs – CLI rozhraní a chytrý generátor kódu pro AOT kompilaci.
 # 👥 Autoři
 Grydldiček (Discord) & Jandysanko (Minecraft) & kenaj1125/Demon_JohnDoe (Roblox) & grulgalus (GitHub) - Tvůrce a hlavní designér.
 Opera AI - Spolupráce na generování kódu a návrhu architektury.
+Cloude - Rozšiřuje projekt.
 
 # 📄 Licence
 Tento projekt je licencován pod licencí MIT.
